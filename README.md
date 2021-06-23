@@ -12,7 +12,7 @@ Adding Subtitle capabilities to Chrome Video Player for MP4 videos.
 or you can test it [here](https://diogoduailibe.github.io/chrome-mp4-player-with-subtitles/)
 
 
-
+Use this to make it fullscreen https://stackoverflow.com/a/22804241/13156539
 
 ## License
 
